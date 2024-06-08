@@ -1,0 +1,7 @@
+salario=float(input('Insira o seu salário \nR$'))
+novosalario=salario+(salario*(15/100))
+print(f'Você ganhou um ajuste de 15%. Agora você recebe R${novosalario:.2f}.\n')
+produto=float(input('Insira o valor do produto \nR$'))
+dinheiro=produto-(produto*5/100)
+cartao=produto+(produto*5/100)
+print(f'Caso pague no dinheiro, o produto custará R${dinheiro:.2f}. Caso pague no cartão, o produto custará R${cartao:.2f}.')

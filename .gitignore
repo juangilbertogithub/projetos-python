@@ -1,0 +1,9 @@
+
+*.pyc
+PythonExercicios/env/Lib/site-packages/setuptools/script (dev).tmpl
+/PythonExercicios/env/Lib/site-packages
+PythonExercicios/.idea/inspectionProfiles/profiles_settings.xml
+*.xml
+/PythonExercicios/env
+/PythonExercicios/.idea
+PythonExercicios/date.py
